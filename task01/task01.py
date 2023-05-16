@@ -1,6 +1,6 @@
-import random
 
 from zebra import Zebra
+import random
 
 
 def main():
